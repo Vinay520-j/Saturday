@@ -3,5 +3,8 @@ public class Diff {
         int a=10;
         int b=10;
         System.out.println(a-b);
+        int c=56;
+        int d=87;
+        System.out.println(c*d);
     }
 }
